@@ -39,7 +39,6 @@ The Social Media Post Caption Generator allows users to input specific content t
         Deploy Firebase Functions: firebase deploy --only functions
         Deploy Firebase Hosting: firebase deploy --only hosting
 
-                                         . . . . . . . . . . . . . . . . . . . . .
 ## Example interaction
 
 Content: travel
@@ -52,7 +51,7 @@ Result
 "Travel opens the mind and heals the soul. Explore new places, meet new people, and learn more about yourself. Life is too short to stay in one place!"
 Hashtags: #travel #inspirational
 Platform: LinkedIn
-                                       . . . . . . . . . . . . . . . . . . . . .
+                                     
 ## Future Enhancements
 •	Add Customization Features: Let’s enhance the tool with more options, such as emoji generation.
 •	Explore Other Google Cloud AI APIs: Look into using Imagen for image-related AI features.
